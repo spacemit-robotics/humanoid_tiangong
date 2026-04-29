@@ -1,0 +1,15 @@
+SpacemiT humanoid_tiangong Component
+Copyright 2026 SpacemiT (Hangzhou) Technology Co. Ltd.
+
+This product includes software developed at
+SpacemiT (Hangzhou) Technology Co. Ltd. (https://www.spacemit.com/).
+
+---------------------------------------------------------------------------
+Third-party Software Notices:
+---------------------------------------------------------------------------
+
+This product contains portions of the following third-party software:
+
+1. TienKung-Lab (https://github.com/Open-X-Humanoid/TienKung-Lab)
+   Copyright (c) 2022-2025 The Isaac Lab Project Developers
+   Licensed under the BSD 3-Clause License.
