@@ -47,8 +47,8 @@ simulation:
   type: "mujoco"
 
   mujoco:
-    init_height: 1.0
-    assist_height: 1.1
+    init_height: 0.95
+    assist_height: 0.9
     sim_dt: 0.002
 
 # ============================================================
